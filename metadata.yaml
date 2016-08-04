@@ -1,0 +1,37 @@
+_repo: My-Bondage-and-My-Freedom_202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglass, Frederick
+    aliases:
+    - Bailey, Frederick Augustus Washington
+    - Baly, Frederick Augustus Washington
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '34510'
+    url: http://www.gutenberg.org/2009/agents/34510
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Douglass
+description: ''
+gutenberg_bookshelf:
+- African American Writers
+- Slavery
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plantation life -- Maryland -- History -- 19th century'
+- !lcsh 'Abolitionists -- United States -- Biography'
+- !lcsh 'Fugitive slaves -- Maryland -- Biography'
+- !lcsh 'African American abolitionists -- Biography'
+- !lcsh 'Douglass, Frederick, 1818-1895'
+- !lcsh 'Slaves -- Maryland -- Social conditions -- 19th century'
+- !lcsh 'Antislavery movements -- United States -- History -- 19th century'
+- !lcc 'E300'
+- GITenberg
+title: My Bondage and My Freedom
+url: http://www.gutenberg.org/ebooks/202
